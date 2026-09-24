@@ -8,6 +8,7 @@ from mpe.domain.serialization import deserialize, serialize
 from mpe.tracking.mock import MockTracker
 from consumer.detector import ColorBlobDetector
 from consumer.frame_source import ConsumerFrameSource
+from consumer.spatial_association import SpatialIdentityAssigner
 
 ROOT = Path(__file__).resolve().parent
 FRAMES = ROOT / "frames"
@@ -31,6 +32,7 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     source = ConsumerFrameSource(FRAMES)
     detector = ColorBlobDetector()
+    assigner = SpatialIdentityAssigner(distance_threshold=150.0)
     tracker = MockTracker()
     n = w = 0
     all_ok = True
@@ -40,6 +42,7 @@ def main() -> int:
     for frame in source.frames():
         n += 1
         dets = detector.detect(frame)
+        dets = assigner.assign(dets)
         states = tracker.update(dets, frame.stamp)
         if states:
             w += 1
@@ -66,6 +69,9 @@ def main() -> int:
     print(f"Frames com >=1 TrackState: {w}")
     print(f"Percentual: {pct:.1f}%")
     print(f"Roundtrip OK: {'SIM' if all_ok else 'NAO'}")
+    print(f"Spatial associations: {assigner.associations}")
+    print(f"New identities: {assigner.new_identities}")
+    print(f"Distance threshold: {assigner.distance_threshold}")
     for k, v in field_ok.items():
         print(f"  {k}: {'PASS' if v else 'FAIL'}")
     if n < 10 or n > 60 or pct < 60.0 or not all_ok:
