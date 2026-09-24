@@ -1,0 +1,839 @@
+[
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 5,
+    "current_stamp_sequence": 6,
+    "previous_timestamp": "2026-01-01T12:00:05+00:00",
+    "current_timestamp": "2026-01-01T12:00:06+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1733.0,
+      993.0
+    ],
+    "current_position": [
+      1703.0,
+      963.0
+    ],
+    "displacement": [
+      -30.0,
+      -30.0
+    ],
+    "displacement_norm": 42.42640687119285,
+    "derived_velocity": [
+      -30.0,
+      -30.0
+    ],
+    "derived_speed": 42.42640687119285,
+    "notes": []
+  },
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 6,
+    "current_stamp_sequence": 7,
+    "previous_timestamp": "2026-01-01T12:00:06+00:00",
+    "current_timestamp": "2026-01-01T12:00:07+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1703.0,
+      963.0
+    ],
+    "current_position": [
+      1698.0,
+      916.0
+    ],
+    "displacement": [
+      -5.0,
+      -47.0
+    ],
+    "displacement_norm": 47.265209192385896,
+    "derived_velocity": [
+      -5.0,
+      -47.0
+    ],
+    "derived_speed": 47.265209192385896,
+    "notes": []
+  },
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 7,
+    "current_stamp_sequence": 8,
+    "previous_timestamp": "2026-01-01T12:00:07+00:00",
+    "current_timestamp": "2026-01-01T12:00:08+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1698.0,
+      916.0
+    ],
+    "current_position": [
+      1608.0,
+      844.0
+    ],
+    "displacement": [
+      -90.0,
+      -72.0
+    ],
+    "displacement_norm": 115.25623627379127,
+    "derived_velocity": [
+      -90.0,
+      -72.0
+    ],
+    "derived_speed": 115.25623627379127,
+    "notes": []
+  },
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 8,
+    "current_stamp_sequence": 9,
+    "previous_timestamp": "2026-01-01T12:00:08+00:00",
+    "current_timestamp": "2026-01-01T12:00:09+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1608.0,
+      844.0
+    ],
+    "current_position": [
+      1605.0,
+      767.0
+    ],
+    "displacement": [
+      -3.0,
+      -77.0
+    ],
+    "displacement_norm": 77.05841861862972,
+    "derived_velocity": [
+      -3.0,
+      -77.0
+    ],
+    "derived_speed": 77.05841861862972,
+    "notes": []
+  },
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 9,
+    "current_stamp_sequence": 10,
+    "previous_timestamp": "2026-01-01T12:00:09+00:00",
+    "current_timestamp": "2026-01-01T12:00:10+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1605.0,
+      767.0
+    ],
+    "current_position": [
+      1569.0,
+      716.0
+    ],
+    "displacement": [
+      -36.0,
+      -51.0
+    ],
+    "displacement_norm": 62.43396511515188,
+    "derived_velocity": [
+      -36.0,
+      -51.0
+    ],
+    "derived_speed": 62.43396511515188,
+    "notes": []
+  },
+  {
+    "track_id": "052e8124-cc20-5c57-b029-1a810427915e",
+    "previous_stamp_sequence": 10,
+    "current_stamp_sequence": 11,
+    "previous_timestamp": "2026-01-01T12:00:10+00:00",
+    "current_timestamp": "2026-01-01T12:00:11+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1569.0,
+      716.0
+    ],
+    "current_position": [
+      1526.0,
+      663.0
+    ],
+    "displacement": [
+      -43.0,
+      -53.0
+    ],
+    "displacement_norm": 68.24954212368984,
+    "derived_velocity": [
+      -43.0,
+      -53.0
+    ],
+    "derived_speed": 68.24954212368984,
+    "notes": []
+  },
+  {
+    "track_id": "985eeefc-f3b8-5ba2-b4e2-f279e955ed36",
+    "previous_stamp_sequence": 0,
+    "current_stamp_sequence": 1,
+    "previous_timestamp": "2026-01-01T12:00:00+00:00",
+    "current_timestamp": "2026-01-01T12:00:01+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1003.0,
+      539.0
+    ],
+    "current_position": [
+      1003.0,
+      539.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "985eeefc-f3b8-5ba2-b4e2-f279e955ed36",
+    "previous_stamp_sequence": 1,
+    "current_stamp_sequence": 2,
+    "previous_timestamp": "2026-01-01T12:00:01+00:00",
+    "current_timestamp": "2026-01-01T12:00:02+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1003.0,
+      539.0
+    ],
+    "current_position": [
+      1003.0,
+      539.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "985eeefc-f3b8-5ba2-b4e2-f279e955ed36",
+    "previous_stamp_sequence": 2,
+    "current_stamp_sequence": 3,
+    "previous_timestamp": "2026-01-01T12:00:02+00:00",
+    "current_timestamp": "2026-01-01T12:00:03+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1003.0,
+      539.0
+    ],
+    "current_position": [
+      1003.0,
+      539.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "985eeefc-f3b8-5ba2-b4e2-f279e955ed36",
+    "previous_stamp_sequence": 3,
+    "current_stamp_sequence": 4,
+    "previous_timestamp": "2026-01-01T12:00:03+00:00",
+    "current_timestamp": "2026-01-01T12:00:04+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1003.0,
+      539.0
+    ],
+    "current_position": [
+      1003.0,
+      539.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "985eeefc-f3b8-5ba2-b4e2-f279e955ed36",
+    "previous_stamp_sequence": 4,
+    "current_stamp_sequence": 5,
+    "previous_timestamp": "2026-01-01T12:00:04+00:00",
+    "current_timestamp": "2026-01-01T12:00:05+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1003.0,
+      539.0
+    ],
+    "current_position": [
+      1003.0,
+      539.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "4c02fdda-27f1-5d7c-ada5-5c03c1fe1d43",
+    "previous_stamp_sequence": 5,
+    "current_stamp_sequence": 6,
+    "previous_timestamp": "2026-01-01T12:00:05+00:00",
+    "current_timestamp": "2026-01-01T12:00:06+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      290.0,
+      540.0
+    ],
+    "current_position": [
+      268.0,
+      524.0
+    ],
+    "displacement": [
+      -22.0,
+      -16.0
+    ],
+    "displacement_norm": 27.202941017470888,
+    "derived_velocity": [
+      -22.0,
+      -16.0
+    ],
+    "derived_speed": 27.202941017470888,
+    "notes": []
+  },
+  {
+    "track_id": "4c02fdda-27f1-5d7c-ada5-5c03c1fe1d43",
+    "previous_stamp_sequence": 6,
+    "current_stamp_sequence": 7,
+    "previous_timestamp": "2026-01-01T12:00:06+00:00",
+    "current_timestamp": "2026-01-01T12:00:07+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      268.0,
+      524.0
+    ],
+    "current_position": [
+      268.0,
+      524.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "4c02fdda-27f1-5d7c-ada5-5c03c1fe1d43",
+    "previous_stamp_sequence": 7,
+    "current_stamp_sequence": 8,
+    "previous_timestamp": "2026-01-01T12:00:07+00:00",
+    "current_timestamp": "2026-01-01T12:00:08+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      268.0,
+      524.0
+    ],
+    "current_position": [
+      268.0,
+      524.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "4c02fdda-27f1-5d7c-ada5-5c03c1fe1d43",
+    "previous_stamp_sequence": 8,
+    "current_stamp_sequence": 9,
+    "previous_timestamp": "2026-01-01T12:00:08+00:00",
+    "current_timestamp": "2026-01-01T12:00:09+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      268.0,
+      524.0
+    ],
+    "current_position": [
+      268.0,
+      524.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "830f9676-1f0a-5d1d-bf4a-403a2363bbaf",
+    "previous_stamp_sequence": 11,
+    "current_stamp_sequence": 12,
+    "previous_timestamp": "2026-01-01T12:00:11+00:00",
+    "current_timestamp": "2026-01-01T12:00:12+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1248.0,
+      540.0
+    ],
+    "current_position": [
+      1248.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "830f9676-1f0a-5d1d-bf4a-403a2363bbaf",
+    "previous_stamp_sequence": 12,
+    "current_stamp_sequence": 13,
+    "previous_timestamp": "2026-01-01T12:00:12+00:00",
+    "current_timestamp": "2026-01-01T12:00:13+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1248.0,
+      540.0
+    ],
+    "current_position": [
+      1248.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "830f9676-1f0a-5d1d-bf4a-403a2363bbaf",
+    "previous_stamp_sequence": 13,
+    "current_stamp_sequence": 14,
+    "previous_timestamp": "2026-01-01T12:00:13+00:00",
+    "current_timestamp": "2026-01-01T12:00:14+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      1248.0,
+      540.0
+    ],
+    "current_position": [
+      1248.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 7,
+    "current_stamp_sequence": 8,
+    "previous_timestamp": "2026-01-01T12:00:07+00:00",
+    "current_timestamp": "2026-01-01T12:00:08+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      960.0,
+      540.0
+    ],
+    "current_position": [
+      943.0,
+      540.0
+    ],
+    "displacement": [
+      -17.0,
+      0.0
+    ],
+    "displacement_norm": 17.0,
+    "derived_velocity": [
+      -17.0,
+      0.0
+    ],
+    "derived_speed": 17.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 8,
+    "current_stamp_sequence": 9,
+    "previous_timestamp": "2026-01-01T12:00:08+00:00",
+    "current_timestamp": "2026-01-01T12:00:09+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      943.0,
+      540.0
+    ],
+    "current_position": [
+      943.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 9,
+    "current_stamp_sequence": 10,
+    "previous_timestamp": "2026-01-01T12:00:09+00:00",
+    "current_timestamp": "2026-01-01T12:00:10+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      943.0,
+      540.0
+    ],
+    "current_position": [
+      931.0,
+      540.0
+    ],
+    "displacement": [
+      -12.0,
+      0.0
+    ],
+    "displacement_norm": 12.0,
+    "derived_velocity": [
+      -12.0,
+      0.0
+    ],
+    "derived_speed": 12.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 10,
+    "current_stamp_sequence": 11,
+    "previous_timestamp": "2026-01-01T12:00:10+00:00",
+    "current_timestamp": "2026-01-01T12:00:11+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      931.0,
+      540.0
+    ],
+    "current_position": [
+      931.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 11,
+    "current_stamp_sequence": 12,
+    "previous_timestamp": "2026-01-01T12:00:11+00:00",
+    "current_timestamp": "2026-01-01T12:00:12+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      931.0,
+      540.0
+    ],
+    "current_position": [
+      931.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 12,
+    "current_stamp_sequence": 13,
+    "previous_timestamp": "2026-01-01T12:00:12+00:00",
+    "current_timestamp": "2026-01-01T12:00:13+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      931.0,
+      540.0
+    ],
+    "current_position": [
+      931.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 13,
+    "current_stamp_sequence": 14,
+    "previous_timestamp": "2026-01-01T12:00:13+00:00",
+    "current_timestamp": "2026-01-01T12:00:14+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      931.0,
+      540.0
+    ],
+    "current_position": [
+      931.0,
+      540.0
+    ],
+    "displacement": [
+      0.0,
+      0.0
+    ],
+    "displacement_norm": 0.0,
+    "derived_velocity": [
+      0.0,
+      0.0
+    ],
+    "derived_speed": 0.0,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 14,
+    "current_stamp_sequence": 15,
+    "previous_timestamp": "2026-01-01T12:00:14+00:00",
+    "current_timestamp": "2026-01-01T12:00:15+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      931.0,
+      540.0
+    ],
+    "current_position": [
+      943.0,
+      576.0
+    ],
+    "displacement": [
+      12.0,
+      36.0
+    ],
+    "displacement_norm": 37.94733192219933,
+    "derived_velocity": [
+      12.0,
+      36.0
+    ],
+    "derived_speed": 37.94733192219933,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 15,
+    "current_stamp_sequence": 16,
+    "previous_timestamp": "2026-01-01T12:00:15+00:00",
+    "current_timestamp": "2026-01-01T12:00:16+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      943.0,
+      576.0
+    ],
+    "current_position": [
+      912.0,
+      588.0
+    ],
+    "displacement": [
+      -31.0,
+      12.0
+    ],
+    "displacement_norm": 33.24154027718932,
+    "derived_velocity": [
+      -31.0,
+      12.0
+    ],
+    "derived_speed": 33.24154027718932,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 16,
+    "current_stamp_sequence": 17,
+    "previous_timestamp": "2026-01-01T12:00:16+00:00",
+    "current_timestamp": "2026-01-01T12:00:17+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      912.0,
+      588.0
+    ],
+    "current_position": [
+      924.0,
+      612.0
+    ],
+    "displacement": [
+      12.0,
+      24.0
+    ],
+    "displacement_norm": 26.832815729997478,
+    "derived_velocity": [
+      12.0,
+      24.0
+    ],
+    "derived_speed": 26.832815729997478,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 17,
+    "current_stamp_sequence": 18,
+    "previous_timestamp": "2026-01-01T12:00:17+00:00",
+    "current_timestamp": "2026-01-01T12:00:18+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      924.0,
+      612.0
+    ],
+    "current_position": [
+      916.0,
+      610.0
+    ],
+    "displacement": [
+      -8.0,
+      -2.0
+    ],
+    "displacement_norm": 8.246211251235321,
+    "derived_velocity": [
+      -8.0,
+      -2.0
+    ],
+    "derived_speed": 8.246211251235321,
+    "notes": []
+  },
+  {
+    "track_id": "b3baf27a-235b-5c12-b454-deacca83da1f",
+    "previous_stamp_sequence": 18,
+    "current_stamp_sequence": 19,
+    "previous_timestamp": "2026-01-01T12:00:18+00:00",
+    "current_timestamp": "2026-01-01T12:00:19+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      916.0,
+      610.0
+    ],
+    "current_position": [
+      895.0,
+      585.0
+    ],
+    "displacement": [
+      -21.0,
+      -25.0
+    ],
+    "displacement_norm": 32.64965543462902,
+    "derived_velocity": [
+      -21.0,
+      -25.0
+    ],
+    "derived_speed": 32.64965543462902,
+    "notes": []
+  },
+  {
+    "track_id": "de861ec3-dfa1-59e3-8684-7f34da1e5c8d",
+    "previous_stamp_sequence": 9,
+    "current_stamp_sequence": 10,
+    "previous_timestamp": "2026-01-01T12:00:09+00:00",
+    "current_timestamp": "2026-01-01T12:00:10+00:00",
+    "delta_t": 1.0,
+    "previous_position": [
+      378.0,
+      1060.0
+    ],
+    "current_position": [
+      374.0,
+      1005.0
+    ],
+    "displacement": [
+      -4.0,
+      -55.0
+    ],
+    "displacement_norm": 55.14526271584895,
+    "derived_velocity": [
+      -4.0,
+      -55.0
+    ],
+    "derived_speed": 55.14526271584895,
+    "notes": []
+  }
+]

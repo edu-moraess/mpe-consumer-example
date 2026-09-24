@@ -1,0 +1,8 @@
+{
+  "frames_with_files": 15,
+  "trackstate_count": 37,
+  "track_count": 11,
+  "tracks_with_multiple_states": 6,
+  "temporal_pairs": 26,
+  "notes": "Association uses TrackState.track_id only. MockTracker maps detection_id\u2192track_id; unique detection_ids per frame yield one-shot tracks unless the consumer reuses detection_ids."
+}
